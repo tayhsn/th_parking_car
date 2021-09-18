@@ -2,7 +2,7 @@
 
 
 
-## Sobre o projeto
+## :bookmark_tabs: Sobre o projeto
 
 Atividade prática para exercitar lógica de programação com a linguagem Kotlin:
 
@@ -10,13 +10,15 @@ Atividade prática para exercitar lógica de programação com a linguagem Kotli
 - Utiliza operador condicional **if, else if, else**
 - Utiliza funções
 
-Prevê implementações:
+Implementações de Testes:
 
-- Testes únitarios da função de calculo
+- Testes unitários da função de cálculo ✔
 
 
 
-## Enunciado da atividade
+## :book: Enunciado da atividade
+
+
 
 ### Programa de Estacionamento
 
@@ -37,3 +39,8 @@ Supondo que um carro ficou no estacionamento apenas 8h. Ele será cobrado pelas 
 Supondo que um carro ficou no estacionamento por 26h, ele será cobrado pelas 24h (R$15,00) mais um valor de 2 horas extras (2*0,5), o que dá um total de R$16,00 == (15+(2*0,50)).
 
 > Nenhuma outra informação é fornecida, nada que não esteja neste enunciado deve ser considerado (salvo o bom senso).
+
+
+
+###### Atividade prática @ Desenvolvimento para Dispositivos Móveis
+
